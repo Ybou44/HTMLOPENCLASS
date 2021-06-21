@@ -1,0 +1,125 @@
+h1
+{
+	color:  deeppink;
+	background-color: black;
+}
+
+h1, h2, p, ul, footer, div
+{
+	width: 80%;
+
+	min-width: 700px;
+
+	margin-right: 10%;
+	margin-left: 10%;
+}
+
+header
+{
+	margin-bottom: 50px;
+}
+
+h1
+{
+	font-size: 3em;
+}
+
+h1
+{
+	text-align: center;
+}
+
+div
+{
+	text-align: center;
+
+	min-width: 700px;
+}
+
+img
+{
+background-size: cover;
+width: 200px;
+height: 200px;
+}
+
+body
+{
+	font-family: verdana;
+	color: grey;
+}
+
+.bold
+{
+	font-weight: bold;
+}
+
+.red
+{
+	color: red;
+	background-color: black;
+	font-weight: bold;
+}
+.orange
+{
+	color: orange;
+	background-color: black;
+	font-weight: bold;
+}
+.yellow
+{
+	color: yellow;
+	background-color: black;
+	font-weight: bold;
+}
+.green
+{
+	color: green;
+	background-color: black;
+	font-weight: bold;
+}
+.blue
+{
+	color: royalblue;
+	background-color: black;
+	font-weight: bold;
+}
+.purple
+{
+	color: purple;
+	background-color: black;
+	font-weight: bold;
+}
+.pinkback
+{
+	font-weight: bold;
+	color: white;
+}
+footer
+{
+	background-color: lightpink;
+}
+.contact
+{
+	text-align: right;
+}
+
+.UltraGaylink
+{
+	color: white;
+	font-weight: bold;
+}
+.fontaine
+{
+	width: 80%;
+	min-width: 700px;
+	height: 80px;
+	overflow: scroll;
+	text-align: center;
+}
+
+.fontaine
+{
+		border: 3px purple outset;
+		box-shadow: 3px 3px 0px lightgrey;
+}
