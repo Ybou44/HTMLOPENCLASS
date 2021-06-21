@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<link rel="stylesheet" type="text/css" href="style3.css">
+		<title>CV Yann Boursier a.k.a. Bad Gaijin</title>
+	</head>
+	<body>
+		<header>
+		<div><p>Save yourself some time: don't bother reading and contact me : 06.51.47.26.57<a href="https://youtu.be/dly6p4Fu5TE?t=38" target="_blank"><span class="UltraGaylink" title="just clic man !">.</span></a><br>
+			if you are a little shy, drop me an email : <a href="mailto:yann.boursier@solidskills.fr" title="just clic man !">yann.boursier@solidskills.fr</a> </p></div>
+		<h1>Creative Freelance IT Recruiter</h1>
+		<div>
+			<p><a href="#who"><span class="red">Who am I ?</span></a> - 
+				<a href="#2things"><span class="orange">The 2 things I do</span></a> - <a href="#candidates"><span class="yellow">My candidates</span></a> - 
+				<a href="#clients"><span class="green">My clients</span></a> - 
+				<a href="https://www.linkedin.com/in/yannboursier/"><span class="blue">Linkedin</span></a> - 
+				<a href="https://www.malt.fr/profile/yannboursier"><span class="purple">Malt</span></a> <a href="https://www.youtube.com/watch?v=pt8VYOfr8To" target="_blank"><span class="UltraGaylink" title="just clic man !">.</span></a></p>
+		<div>
+			<img src="image/cvpic.jpg" alt="great looking recruiter's picture"><img src="image/cvpic.jpg" alt="great looking recruiter's picture"><img src="image/cvpic.jpg" alt="great looking recruiter's picture">
+		</div>
+	</header>
+	<section>
+		<h2 id="who"><span class="red">who am I ?</span></h2>
+		<ul>
+			<li>15 years of recruitment experience</li>
+			<li>Fluent in English and French</li>
+			<li>I am very creative</li>
+			<li>I am genuine and I am convinced it is the reason why I am succesful</li>
+			<li>I like to see myself as a solution for my clients pains</li>
+			<li>I love tech when it's well design and respectful of my privacy<a href="https://youtu.be/SJCTgtDU-74?t=9"  target="_blank"><span class="UltraGaylink" title="just clic man !">.</span></a></li>
+			
+		</ul>
+	</section>
+
+	<section>
+		<h2 id="2things"><span class="orange">The 2 things I do</span></h2>
+		<ul>
+			<li>I find candidates who are hard to find</li>
+			<li>I help my client to seduce them<a href="https://youtu.be/qq09UkPRdFY?t=35" target="_blank"><span class="UltraGaylink" title="just clic man !">.</span></a></li>			
+		</ul>
+	</section>
+
+	<section>
+		<h2 id="candidates"><span class="yellow">My candidates :</span></h2>
+		<ul>
+			<li><span class="bold">DATA:</span> Data Engineers, Data Analysts, Data Scientists<a href="https://www.youtube.com/watch?v=bESGLojNYSo" target="_blank"><span class="UltraGaylink" title="just clic man !">.</span></a></li>
+			<li><span class="bold">Software engineers:</span> Front, Back, FullStack et architects</li>
+			<li><span class="bold">Project management:</span> PO, Scrum Masters, Agile coaches, Project managers</li>
+			<li>UX Designers</li>
+			<li>DevOps</li>			
+		</ul>
+	</section>		
+
+	<section>
+		<h2 id="clients"><span class="green">clients I worked with since 2014 :</span></h2>
+		<ul>
+			<li><span class="bold">Start Up & tech firms :</span> iAdvize, Lengo, ManoMano, Gameloft, Akeneo, Iktos, Tweag.io, Howtank, Bertin IT, NextWay, GigaSpaces, TextMaster, Acolad, Kurmi Software, Guest Suite...<a href="https://www.youtube.com/watch?v=Xk1P_XJPnms" target="_blank"><span class="UltraGaylink" title="just clic man !">.</span></a></li>
+			<li><span class="bold">DSI:</span> Maif, CBP Assurance, Brioche Pasquier, Maisons du Monde, E.Leclerc, Scheiber...</li>
+			<li><span class="bold">ESN & Sociétés de Services:</span> Cadreho (mission RPO en cours depuis 2019), AlterWay, Altran, GFI, ITS Group, Akeneo, Younup... </li>		
+		</ul>
+	</section>		
+	<section>
+		<h2><span class="blue">Still haven't contacted me yet ?</span><a href="https://www.youtube.com/watch?v=pIgZ7gMze7A" target="_blank"><span class="UltraGaylink" title="just clic man !">.</span></a></h2>
+		<span class="contact">
+		<p>Contact me and tell me about your project : 06.51.47.26.58. - <a href="mailto:yann.boursier@solidskills.fr">yann.boursier@solidskills.fr</a>
+		</p></span>
+	</section>
+	<section>
+		<h2><span class="purple">Why did I become a freelancer ?</span></h2>
+		<div class="fontaine">
+			<p>Un Loup n'avait que les os et la peau,<br>
+Tant les chiens faisaient bonne garde.<br>
+Ce Loup rencontre un Dogue aussi puissant que beau,<br>
+Gras, poli, qui s'était fourvoyé par mégarde.<br>
+L'attaquer, le mettre en quartiers,<br>
+Sire Loup l'eût fait volontiers ;<br>
+Mais il fallait livrer bataille,<br>
+Et le Mâtin était de taille<br>
+À se défendre hardiment.<br>
+Le Loup donc l'aborde humblement,<br>
+Entre en propos, et lui fait compliment<br>
+Sur son embonpoint, qu'il admire.<br>
+« Il ne tiendra qu'à vous beau sire,<br>
+D'être aussi gras que moi, lui repartit le Chien.<br>
+Quittez les bois, vous ferez bien :<br>
+Vos pareils y sont misérables,<br>
+Cancres, hères, et pauvres diables,<br>
+Dont la condition est de mourir de faim.<br>
+Car quoi ? rien d'assuré : point de franche lippée ;<br>
+Tout à la pointe de l'épée.<br>
+Suivez-moi : vous aurez un bien meilleur destin. »<br>
+Le Loup reprit : « Que me faudra-t-il faire ?<br>
+– Presque rien, dit le Chien, donner la chasse aux gens<br>
+Portants bâtons, et mendiants ;<br>
+Flatter ceux du logis, à son Maître complaire :<br>
+Moyennant quoi votre salaire<br>
+Sera force reliefs de toutes les façons :<br>
+Os de poulets, os de pigeons,<br>
+Sans parler de mainte caresse. »<br>
+Le Loup déjà se forge une félicité<br>
+Qui le fait pleurer de tendresse.<br>
+Chemin faisant, il vit le col du Chien pelé.<br>
+« Qu'est-ce là ? lui dit-il. – Rien. – Quoi ? rien ? – Peu de chose.<br>
+– Mais encore ? – Le collier dont je suis attaché<br>
+De ce que vous voyez est peut-être la cause.<br>
+– Attaché ? dit le Loup : vous ne courez donc pas<br>
+Où vous voulez ? - Pas toujours ; mais qu'importe ?<br>
+– Il importe si bien, que de tous vos repas<br>
+Je ne veux en aucune sorte,<br>
+Et ne voudrais pas même à ce prix un trésor. »<br>
+Cela dit, maître Loup s'enfuit, et court encor. <br>
+			</p>
+		</div>
+	</section>
+
+	<footer>
+		<p><span class="pinkback">This resume page was made made with love during pride month, I hope you enjoyed the gay friendliness of the colors.</span></p>
+	</footer>
+
+	<body>
+<html>
